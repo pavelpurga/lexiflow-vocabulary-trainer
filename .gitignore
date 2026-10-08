@@ -3,6 +3,9 @@ dist/
 .vite/
 *.local
 *.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
 *.tar
 *.tar.gz
 .DS_Store
@@ -10,4 +13,3 @@ Thumbs.db
 .env
 .env.*
 !.env.example
-
